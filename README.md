@@ -37,8 +37,8 @@ notebooks/ Jupyter notebooks
 **Steps**
 
 ```bash
-git clone <https://github.com/Luluhmm/week3ML.git>
-cd <week3ML>
+git clone https://github.com/Luluhmm/week3ML.git
+cd week3ML
 
 uv venv -p 3.12
 uv pip install -e .
